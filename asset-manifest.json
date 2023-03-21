@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-memo/static/css/main.85426df0.css",
+    "main.js": "/test-memo/static/js/main.3f8d2ffc.js",
+    "static/js/787.fa23e709.chunk.js": "/test-memo/static/js/787.fa23e709.chunk.js",
+    "index.html": "/test-memo/index.html",
+    "main.85426df0.css.map": "/test-memo/static/css/main.85426df0.css.map",
+    "main.3f8d2ffc.js.map": "/test-memo/static/js/main.3f8d2ffc.js.map",
+    "787.fa23e709.chunk.js.map": "/test-memo/static/js/787.fa23e709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85426df0.css",
+    "static/js/main.3f8d2ffc.js"
+  ]
+}
